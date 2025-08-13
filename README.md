@@ -133,6 +133,24 @@ The workflow uses color coding:
 4. Test thoroughly
 5. Submit a pull request
 
+## 🚀 Live Demo & Deployment
+
+### 🌟 One-Click Deploy
+Deploy your own copy instantly:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vaibhav90363/day0&project-name=interactive-workflow&repository-name=interactive-workflow)
+
+### 📋 Deployment Options
+See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions on deploying to:
+- **Vercel** (Recommended)
+- **Netlify** 
+- **GitHub Pages**
+- **Railway**
+- **CodeSandbox** (Instant online preview)
+
+### 🔄 Real-time Updates
+Once deployed, any changes you push to GitHub will automatically update your live site within 1-2 minutes!
+
 ## License
 
 This project is licensed under the MIT License.
